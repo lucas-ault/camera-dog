@@ -1,9 +1,9 @@
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://camera.dog/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
 # title = "Luke Spots"
-copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Copyright Luke Spots - BARK BARK BARK"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
