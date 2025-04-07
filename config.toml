@@ -22,10 +22,10 @@ disableKinds = ["taxonomy", "term"]
     # { patreon = "https://www.patreon.com/username" },
     { reddit = "https://reddit.com/user/luwuke" },
     { telegram = "https://t.me/luke_spots" },
-    { threads = "https://threads.com/luke_spots" },
+    # { threads = "https://threads.com/luke_spots" },
     { tiktok = "https://tiktok.com/@luke_spots" },
     { twitter = "https://twitter.com/luke_spots" },
-    { youtube = "https://youtube.com/luke_spots" },
+    # { youtube = "https://youtube.com/luke_spots" },
   ]
 
 [module]
